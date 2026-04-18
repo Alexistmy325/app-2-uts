@@ -6,9 +6,9 @@
 
     <EditText
         android:id="@+id/etTitle"
-        android:hint="Título"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:hint="Título" />
 
     <EditText
         android:id="@+id/etDesc"

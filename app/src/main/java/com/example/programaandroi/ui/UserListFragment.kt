@@ -9,7 +9,7 @@ import com.example.programaandroi.R
 import com.example.programaandroi.databinding.FragmentUserListBinding
 import com.example.programaandroi.viewmodel.UserViewModel
 
-class UserListFragment : Fragment(R.layout.fragment_user_list) {
+class UserListFragment : Fragment(R.layout.fragment_task_list) {
 
     private var _binding: FragmentUserListBinding? = null
     private val binding get() = _binding!!

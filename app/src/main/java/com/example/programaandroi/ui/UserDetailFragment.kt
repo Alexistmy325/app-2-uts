@@ -10,7 +10,7 @@ import androidx.navigation.fragment.findNavController
 import com.example.programaandroi.R
 import com.example.programaandroi.viewmodel.UserViewModel
 
-class UserDetailFragment : Fragment(R.layout.fragment_user_detail) {
+class UserDetailFragment : Fragment(R.layout.fragment_task_detail) {
 
     private val viewModel: UserViewModel by activityViewModels()
 

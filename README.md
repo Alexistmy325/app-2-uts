@@ -27,13 +27,6 @@ En este taller se implementó una aplicación móvil de lista de tareas utilizan
 Se implementó la opción de:
 - Notificación local
 
-### 📸 Evidencias
-
-Las capturas se encuentran en la carpeta `/docs`:
-
-- Lista de tareas en funcionamiento
-- Pantalla de detalle de tarea
-- Notificación de recordatorio
 
 ### 🛠 Tecnologías usadas
 

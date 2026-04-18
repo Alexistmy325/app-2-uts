@@ -1,4 +1,4 @@
-package com.example.programaandroidi.ui
+package com.example.programaandroi.ui
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -13,10 +13,10 @@ import android.widget.CheckBox
 import android.widget.EditText
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.example.programaandroidi.R
-import com.example.programaandroidi.TaskReminderReceiver
-import com.example.programaandroidi.model.Task
-import com.example.programaandroidi.repository.TaskRepository
+import com.example.programaandroi.R
+import com.example.programaandroi.TaskReminderReceiver
+import com.example.programaandroi.model.Task
+import com.example.programaandroi.repository.TaskRepository
 
 class TaskDetailFragment : Fragment() {
 

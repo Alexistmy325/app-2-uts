@@ -1,4 +1,4 @@
-package com.example.programaandroidi
+package com.example.programaandroi
 
 import android.app.*
 import android.content.*
@@ -19,7 +19,7 @@ class TaskReminderReceiver : BroadcastReceiver() {
             )
 
             val manager = context.getSystemService(NotificationManager::class.java)
-            manager.createNotificationChannel(channel)
+            manager?.createNotificationChannel(channel)
         }
 
         val notification = NotificationCompat.Builder(context, channelId)

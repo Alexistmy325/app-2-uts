@@ -1,4 +1,4 @@
-package com.example.programaandroidi.model
+package com.example.programaandroi.model
 
 data class Task(
     val id: Int,

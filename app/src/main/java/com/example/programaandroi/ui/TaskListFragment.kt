@@ -1,4 +1,4 @@
-package com.example.programaandroidi.ui
+package com.example.programaandroi.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,8 +9,8 @@ import android.widget.Button
 import android.widget.ListView
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.example.programaandroidi.R
-import com.example.programaandroidi.repository.TaskRepository
+import com.example.programaandroi.R
+import com.example.programaandroi.repository.TaskRepository
 
 class TaskListFragment : Fragment() {
 
